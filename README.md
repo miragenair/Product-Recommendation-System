@@ -11,7 +11,7 @@ The core recommendation engine is developed in **Jupyter Notebook**, where vario
 
 An entire notebook is dedicated to **exploratory analysis and visualization**, showcasing how different recommendation strategies perform across scenarios using graphs and insights.
 
-The frontend is built with Flask**, enabling users to interact with the system seamlessly, while **MySQL (via XAMPP)** handles structured data storage.
+The frontend is built with **Flask**, enabling users to interact with the system seamlessly, while **MySQL (via XAMPP)** handles structured data storage.
 
 **🔧 Tech Stack:**
 
