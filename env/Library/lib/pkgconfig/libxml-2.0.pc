@@ -1,0 +1,11 @@
+prefix=C:/Users/mirage/DSandML/product_recomendation_system/env/Library 
+exec_prefix=C:/Users/mirage/DSandML/product_recomendation_system/env/Library 
+libdir=C:/Users/mirage/DSandML/product_recomendation_system/env/Library/lib 
+includedir=C:/Users/mirage/DSandML/product_recomendation_system/env/Library/include 
+modules=0 
+Name: libXML 
+Version: 2.13.9 
+Description: libXML library version2. 
+Requires: 
+Libs: -LC:/Users/mirage/DSandML/product_recomendation_system/env/Library/lib -lxml2 -liconv -lz 
+Cflags: -IC:/Users/mirage/DSandML/product_recomendation_system/env/Library/include/libxml2 -IC:/Users/mirage/DSandML/product_recomendation_system/env/Library/include 
